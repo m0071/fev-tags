@@ -1,4 +1,15 @@
 {
+  "Elevations": [
+    "Front Elevation",
+    "Left Elevation",
+    "Rear Elevation",
+    "Right Elevation"
+  ],  
+  "Common Areas": [
+    "Conference Room",
+    "Car Park",
+    "Cleaning Store"
+  ],
   "Conditions": [
     "Surface cracking",
     "Peeling paint",
@@ -52,16 +63,5 @@
     "Dry rot",
     "Termite damage",
     "Borer damage"
-  ],
-  "Elevations": [
-    "Front Elevation",
-    "Left Elevation",
-    "Rear Elevation",
-    "Right Elevation"
-  ],
-  "Common Areas": [
-    "Conference Room",
-    "Car Park",
-    "Cleaning Store"
   ]
 }
