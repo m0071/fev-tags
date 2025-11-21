@@ -48,6 +48,7 @@
   "Conditions": [
     "Surface cracking",
     "Peeling paint",
+    "Faded line markings",
     "Water ingress",
     "Subsidence",
     "Trip hazard",
@@ -78,6 +79,7 @@
     "Condensation",
     "Water staining",
     "Efflorescence",
+    "Incorrect Installation",
     "Mildew",
     "Corroded pipe",
     "Blocked drain",
@@ -97,6 +99,7 @@
     "Vegetation overgrowth",
     "Dry rot",
     "Termite damage",
+    "Trip Hazard",
     "Borer damage"
   ]
 }
